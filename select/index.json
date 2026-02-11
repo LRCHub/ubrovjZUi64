@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "サターン",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-11T00:58:08.615609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_サターン_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_サターン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サターン(Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_サターン(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_サターン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_サターン_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/06_サターン_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『サターン』 (ZUTOMAYO - SATURN)（Audio Track）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_ずっと真夜中でいいのに。『サターン』_(ZUTOMAYO_-_SATURN)(Audio_Track)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サターン (インスト)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_サターン_(インスト)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "Zutto Mayonaka de Ii no ni.",
+      "has_synced": true,
+      "path": "select/09_サターン_Zutto_Mayonaka_de_Ii_no_ni..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サターン",
+      "artist": "Zutto Mayonaka de li no ni",
+      "has_synced": true,
+      "path": "select/10_サターン_Zutto_Mayonaka_de_li_no_ni.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サターン (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/11_サターン_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サターン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_サターン_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
